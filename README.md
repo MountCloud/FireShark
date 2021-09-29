@@ -1,2 +1,2 @@
 # FireShark
-流量采集器Flow collection
+跨平台流量采集器Cross-platform traffic collector
